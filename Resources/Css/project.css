@@ -1,0 +1,143 @@
+
+
+/* BASIC SETUP*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    background: #ecf0f1;
+}
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+/* HEADING */
+h2{
+    position: relative;
+    text-align: center;
+    font-size: 2.4rem;
+}
+h2:after{
+    content: '';
+    position: absolute;
+    width: 105px;
+    height: 1.5px;
+    background: #130f40;
+    border-radius: 50px;
+    bottom: -10px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+}
+h2:before{
+    content: '';
+    position: absolute;
+    width: 20px;
+    height: 6px;
+    background: #130f40;
+    border-radius: 10px;
+    bottom: -12px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+}
+h5{
+    display: inline-block;
+}
+.btn{
+    text-decoration: none;
+    -webkit-transition: .6s ease-in-out;
+    transition: .6s ease-in-out;
+}
+.warp{
+    overflow: hidden;
+}
+.btn-shahin{
+    padding: .5rem 2.5rem;
+    border: 0;
+    background: #130f40;
+    color: #fff;
+    font-size: 1.4rem;
+    text-transform: uppercase;
+    margin: .5rem 0;
+}
+.active{
+    background: #3498db;
+}
+.card .img-box{
+    position: relative;
+}
+.card .img-box h1{
+    font-size: 1rem;
+    position: absolute;
+    bottom: .5rem;
+    left: .5rem;
+    color: #fff;
+    font-size: 2rem;
+    letter-spacing: 0;
+}
+.btn-group{
+    display: block;
+    margin: 0 auto;
+}
+
+.card-body .personal-info{
+    margin:1rem 0;
+}
+.card-body .personal-info .icon-box,
+.card-body .personal-info .text-box{
+    margin: .5rem 0;
+}
+
+.card-body .personal-info .icon-box .fas{
+    font-size: 1.8rem;
+    margin-right: 1rem;
+}
+.card-body .personal-info .text-box h5{
+    font-size: 1.6rem;
+}
+
+/* skill*/
+.card-body .skill-section .fas{
+    font-size: 1.6rem;
+    margin-right: 1rem;
+}
+.card-body .skill-section span{
+    font-size: 1.6rem;
+}
+.home-style{
+    height: 40px;
+    width: 40px;
+    border-radius: 5%;
+    background:#d35400;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    right: 2%;
+    bottom: 1%;
+    transition: .6s;
+}
+.home-style a{
+    color:#ecf0f1;
+    font-size: 18px;
+    transition: .6s;
+}
+.home-style a:hover{
+    margin-top: -10px;
+}
+.home-style:hover{
+    background:#f39c12;
+}
+.home-style:hover a{
+    color: #fff
+}

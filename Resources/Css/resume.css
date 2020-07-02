@@ -1,0 +1,86 @@
+/*================================== RESUME PART =====================*/
+
+
+.my-resume h1{
+    margin: 0;
+    font-size: 34px;
+}
+.my-resume h5 em{
+    font-size: 18px;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+.my-resume table td span{
+    margin-left: 5px;
+}
+.my-resume section{
+    padding: 25px 0;
+}
+.my-resume section h4{
+    font-size: 24px;
+    text-transform: uppercase;
+    font-weight: 500;
+    margin: 0;
+}
+.my-resume hr{
+    height: 1px;
+    box-shadow: 1px 1px 2px #111;
+}
+.my-resume section p:last-child{
+    margin: 0;
+}
+.my-resume .date-part{
+    margin-right: 15px;
+}
+.my-resume .institution-part{
+    margin-left: 15px;
+}
+.my-resume h6 b{
+    margin: 0;
+    font-size: 20px;
+    display: inline-block;
+}
+.my-resume .part{
+    margin-bottom: 10px;
+}
+.mble-device{
+    display: none;
+}
+.home-style{
+    height: 40px;
+    width: 40px;
+    border-radius: 5%;
+    background:#d35400;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    right: 2%;
+    bottom: 1%;
+    transition: .6s;
+}
+.home-style a{
+    color:#ecf0f1;
+    font-size: 18px;
+    transition: .6s;
+}
+.home-style a:hover{
+    margin-top: -10px;
+}
+.home-style:hover{
+    background:#f39c12;
+}
+.home-style:hover a{
+    color: #fff
+}
+
+@media only screen and (max-width:480px){
+  .my-resume{
+        display: none;
+    }
+    .mble-device{
+        display: block;
+        overflow: hidden;
+    }
+}
