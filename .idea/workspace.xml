@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="35009950-edb4-428c-b8aa-cc878dca27d5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/admin/addservice.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/inbox.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/insert.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/mailHeader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/manageservice.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/classes/Database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/classes/Login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/classes/Services.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/classes/Session.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/classes/Site.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/New Text Document.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Images/my-white-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1gBN6SWDUiICe730xtlrNZHMZ82" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35009950-edb4-428c-b8aa-cc878dca27d5" name="Default Changelist" comment="" />
+      <created>1597583849418</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597583849418</updated>
+      <workItem from="1597583850523" duration="7288000" />
+      <workItem from="1597634694415" duration="4468000" />
+      <workItem from="1597644753031" duration="1718000" />
+      <workItem from="1597649356866" duration="11754000" />
+      <workItem from="1597666853579" duration="3310000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="347" y="66" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1597660871628">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="347" y="66" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.738@0.0.1366.738" timestamp="1597660871628" />
+    <state x="302" y="45" key="NewPhpClassDialog" timestamp="1597649728142">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="302" y="45" key="NewPhpClassDialog/0.0.1366.738@0.0.1366.738" timestamp="1597649728142" />
+    <state x="460" y="277" key="NewPhpFileDialog" timestamp="1597669683273">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="460" y="277" key="NewPhpFileDialog/0.0.1366.738@0.0.1366.738" timestamp="1597669683273" />
+  </component>
+</project>

@@ -1,0 +1,22 @@
+.video_box{
+    position: relative;
+}
+.video_box .hover_content{
+    position: absjolute;
+    padding:10px 5px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: red;
+    width: 100%;
+    text-align: center;
+    transition: .6s;
+    transform: scale(1);
+}
+.video_box:hover  .hover_content{
+    transform: scale(1);
+    z-index: 5;
+}
+.video_box .hover_content .btn{
+    cursor: pointer;
+}

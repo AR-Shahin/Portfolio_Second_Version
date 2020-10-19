@@ -11,7 +11,7 @@ html{
 body{
     font-family: 'Montserrat', sans-serif;
     letter-spacing: 1px;
-    background: #2d3436;
+    background-image: linear-gradient(to right top, #810b4e, #671451, #4d194f, #331a48, #1b183d, #121f42, #072645, #002c47, #00425c, #00596d, #007078, #00877d);
     color: #fff;
 }
 hr{
@@ -92,7 +92,7 @@ header{
     background: #2C3A47;
     background-image: url(../Images/blur-coffee-communication-270691.jpg);
     background-size: cover;
-     background-position: top center;
+    background-position: top center;
     background-repeat: no-repeat;
     background-attachment: fixed;
     color: #ffffff;
@@ -109,13 +109,13 @@ header::before{
     right: 0;
     bottom: 0;
 }
-    
+
 header .my-nav{
     background: rgba(44, 58, 71, 0.62);
     background: #2d3436;
     padding: 15px 0;
 }
- .my-nav ul li .nav-link{
+.my-nav ul li .nav-link{
     color: #55E6C1;
     font-size: 14px;
     text-transform: uppercase;
@@ -130,11 +130,11 @@ nav span{
     font-size: 25px;
 }
 
- .my-nav ul li .nav-link:hover{
+.my-nav ul li .nav-link:hover{
     border-bottom: 1px solid #55E6C1;
 }
 .hero-section{
-    padding: 140px 0 240px 0;
+    padding: 215px 0 240px 0 !important;
 }
 .hero-section .hero-text{
     text-align: left;
@@ -162,7 +162,7 @@ nav span{
     display: flex;
     align-items: center;
     justify-content: center;
-     color: #2d3436;
+    color: #2d3436;
     border: 1.5px solid transparent;
     transition: .6s;
 }
@@ -191,7 +191,7 @@ nav span{
     margin-top: -5x;
 }
 #about-section{
-    
+
 }
 #about-section p{
     font-size: ;
@@ -259,10 +259,10 @@ nav span{
     text-transform: capitalize;
     transition: .6s;
     text-decoration: none;
-    
+
 }
 #programming-code-section .btn-link:hover{
-   border-color: #2196F3;
+    border-color: #2196F3;
     text-decoration: none;
     color: yellow;
 }
@@ -574,7 +574,6 @@ footer{
     padding: 20px 0;
     background: #2f3640;
     color: #fff;
-    border-top: 1.5px dotted #f5f6fa;
 }
 .scroll-top{
     height: 40px;
